@@ -9,9 +9,9 @@ A lightweight on-device model running on ESP32 classifies machine states as GOOD
 SmartEar offers a low-cost and scalable solution for industrial monitoring, making it suitable for applications such as motors, pumps, and rotating machinery.
 
 # Tools and Techniques
-ESP-32 Microcontroller
-Sound Sensor Module(INMP441)
-Edge Impulse Studio
+ESP-32 Microcontroller,
+Sound Sensor Module(INMP441),
+Edge Impulse Studio,
 Programming Environment(Arduino IDE)
 
 # Working
