@@ -41,7 +41,4 @@ Further improvements may include integration of advanced lightweight deep learni
 
 Scalability can also be enhanced through edge–cloud integration, enabling centralized monitoring and analytics across multiple machines.
 
-## 📁 Project Assets
 
-- [Circuit Diagram](images/circuit.png)  
-- [Result Output](images/output.png)
