@@ -43,5 +43,5 @@ Scalability can also be enhanced through edge–cloud integration, enabling cent
 
 ## 📁 Project Assets
 
-- Circuit Diagram: images/circuit.png  
-- Result Output: images/output.png
+- [Circuit Diagram](images/circuit.png)  
+- [Result Output](images/output.png)
