@@ -25,8 +25,11 @@ During operation, incoming audio is continuously analyzed and classified. To ens
 
 By combining Edge Impulse (DSP + model training) with ESP32-based Edge AI deployment, SmartEar delivers a low-cost, scalable, and low-latency predictive maintenance solution.
 
-![Circuit](circuit_diagram.png)
-![Circuit Implementation](circuit_implementation.jpg)
+### 🧩 Schematic Diagram
+![Circuit Diagram](Circuit_Diagram.png)
+
+### ⚙️ Hardware Implementation
+![Circuit Implementation](circuit_Implementation.jpg)
 
 # Result 
 The SmartEar system successfully demonstrated real-time acoustic fault detection using Edge AI on ESP32. The MFCC feature extraction process produced clear separability between GOOD and BROKEN machine conditions, as observed in the feature explorer visualization.
