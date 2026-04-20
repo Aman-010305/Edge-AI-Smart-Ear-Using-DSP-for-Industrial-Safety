@@ -32,6 +32,8 @@ The trained model achieved high-confidence classification, where prediction prob
 
 Experimental testing showed that the system reliably detects faults in real time while maintaining stability in noisy environments. The complete pipeline runs efficiently on-device, validating its suitability for low-latency, offline industrial monitoring and predictive maintenance applications.
 
+Detailed results are available in [RESULT.md](RESULT.md)
+
 # Future Scope
 The current system can be extended to support multi-class fault classification, enabling identification of specific fault types such as bearing wear, misalignment, and imbalance. Adaptive thresholding and online learning techniques can be incorporated to improve long-term reliability under varying operating conditions.
 
