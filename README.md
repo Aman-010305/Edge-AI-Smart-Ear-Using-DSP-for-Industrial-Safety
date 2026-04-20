@@ -40,3 +40,8 @@ While this implementation utilizes Edge Impulse Studio for DSP processing and mo
 Further improvements may include integration of advanced lightweight deep learning models and combining additional sensor data (e.g., vibration or temperature) for multi-modal fault detection.
 
 Scalability can also be enhanced through edge–cloud integration, enabling centralized monitoring and analytics across multiple machines.
+
+## 📁 Project Assets
+
+- Circuit Diagram: images/circuit.png  
+- Result Output: images/output.png
